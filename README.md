@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://forum.allkpop.com/attachment/238049-wonyoung-yujin-gif/" alt="Header Image" width="400"/>
+  <img src="assets/wony.gif" width="400" alt="Header GIF"/>
 </p>
 
 <h1 align="center">Hi, I'm Anggita Najmi 👋</h1>
