@@ -2,7 +2,7 @@
   <img src="assets/wony.gif" width="400" alt="Header GIF"/>
 </p>
 
-<h1 align="center">Hi, I'm Anggita Najmi 👋</h1>
+<h1 align="center">Hi, just call me <span style="color:pink">Gita</span> 👋</h1>
 <p>2nd-year Information Systems and Technology student with a passion for building impactful digital solutions through software development and database management. Let's connect and collaborate!</p>
 
 ---
