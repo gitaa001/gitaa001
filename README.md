@@ -1,17 +1,6 @@
 <h1 align="center">Hi, I'm Anggita Najmi 👋</h1>
 
-<p align="center">2nd-year Information Systems and Technology student with a passion for building impactful digital solutions through software development and database management.</p>
-
-<p align="center">Let's connect and collaborate!</p>
-
----
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gitaa001&theme=gruvbox&margin-w=10&margin-h=10" alt="gitaa001 trophies"/>
-  </a>
-</p>
+<p>2nd-year Information Systems and Technology student with a passion for building impactful digital solutions through software development and database management. Let's connect and collaborate!</p>
 
 ---
 
@@ -27,7 +16,7 @@
 
 ---
 
-### 💻 Languages and Tools
+### 💻 Tech Stacks
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/></a>
   <a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/></a>
@@ -63,12 +52,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gitaa001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gitaa001&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitaa001" alt="GitHub Streak" />
 </p>
+
