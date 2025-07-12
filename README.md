@@ -6,8 +6,7 @@
 <p>2nd-year Information Systems and Technology student with a passion for building impactful digital solutions through software development and database management. Let's connect and collaborate!</p>
 
 ---
-
-### 💻 Tech Stacks
+<h1>💻 Tech Stacks</h1>
 
 ### 🖥️ Programming Languages  
 <p align="left">
@@ -46,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<h1>📊 GitHub Stats</h1>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gitaa001&show_icons=true&theme=default&locale=en" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitaa001&theme=default" alt="GitHub Streak" height="165"/>
