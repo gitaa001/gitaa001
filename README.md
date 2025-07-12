@@ -7,19 +7,7 @@
 
 ---
 
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://twitter.com/imkankembunk" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@gitaanaj" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-  </a>
-</p>
-
 ### 💻 Tech Stacks
-
----
 
 ### 🖥️ Programming Languages  
 <p align="left">
@@ -30,8 +18,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
-
----
 
 ### 🌐 Web Development  
 <p align="left">
@@ -44,8 +30,6 @@
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
 
----
-
 ### 🗃️ Databases  
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -53,8 +37,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </p>
-
----
 
 ### 🎨 Design & Prototyping  
 <p align="left">
@@ -69,6 +51,7 @@
   </a>
 </p>
 
+---
 
 ### 📊 GitHub Stats
 <p align="center">
