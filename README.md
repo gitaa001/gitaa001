@@ -6,7 +6,6 @@
 <p>2nd-year Information Systems and Technology student with a passion for building impactful digital solutions through software development and database management. Let's connect and collaborate!</p>
 
 ---
-<h2>💻 Tech Stacks</h2>
 
 ### Programming Languages  
 <p align="left">
@@ -17,7 +16,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
- 
+
+ ### Tech Stacks
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
